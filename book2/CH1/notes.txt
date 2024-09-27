@@ -15,3 +15,6 @@ The hr tag and other tags like it may not need a closing tag ??
 
 
 Html pages should always start with the <!tml> tag and end with the  <
+
+<img src="filename" alt="description">
+
