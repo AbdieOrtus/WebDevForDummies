@@ -1,0 +1,7 @@
+Html is made of tags. 
+<tag> content</tag>
+
+The first tag is a start tag and it is matched by an ending tag that is the same thing with a / /
+
+<em> tag denotes emphisis on something </em> 
+
