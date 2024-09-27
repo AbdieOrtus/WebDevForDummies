@@ -14,4 +14,4 @@ One can add more stuff to the tags inside the <
 The hr tag and other tags like it may not need a closing tag ??
 
 
-Html pages should always start with the <Html> tag and end with the  
+Html pages should always start with the <!tml> tag and end with the  <
