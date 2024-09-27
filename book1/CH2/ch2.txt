@@ -1,0 +1,6 @@
+Chapter 2 is mostly setup,
+
+The chapter details how to download xaminrin for Windows and use that server technology 
+
+I will instead be using GitHub's servers, called Codespaces instead, because I want to do this in 2024
+
