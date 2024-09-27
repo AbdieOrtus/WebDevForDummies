@@ -3,5 +3,5 @@ Html is made of tags.
 
 The first tag is a start tag and it is matched by an ending tag that is the same thing with a / /
 
-<em> tag denotes emphisis on something </em> 
+<em> tag denotes emphasis on something </em> 
 
