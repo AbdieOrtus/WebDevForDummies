@@ -5,3 +5,13 @@ The first tag is a start tag and it is matched by an ending tag that is the same
 
 <em> tag denotes emphasis on something </em> 
 
+One can add more stuff to the tags inside the < 
+
+<tag attribute = "value" > 
+
+<hr width = "50%" >
+
+The hr tag and other tags like it may not need a closing tag ??
+
+
+Html pages should always start with the <Html> tag and end with the  
