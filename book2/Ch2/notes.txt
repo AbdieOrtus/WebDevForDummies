@@ -1,0 +1,10 @@
+Chapter 2 in book 2
+Css
+
+Cascading style sheets
+
+Style sheet because of how old publishing firms used to keep track of styles
+
+element {
+    proprety: value
+}
